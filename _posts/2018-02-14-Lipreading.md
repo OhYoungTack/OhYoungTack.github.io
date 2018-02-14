@@ -1,5 +1,5 @@
 # Project-"Lip_Reading"
-====
+
 ## Korean lip reading for a hearing-impaired person
 ----
 
@@ -29,8 +29,7 @@
   -> <mark>입의 특징을 비교하여 어떤 단어를 말하고 있는 것인지를 알아내야한다.</mark>
 
 #### Step 1
-  <img src =“https://github.com/OhYoungTack/OhYoungTack.github.io/blob/master/images/step1_1.png”>
-  
+  ![Alt text](/images/step1_1.png)  
  
  얼굴을 인식할때 컬러정보는 필요없기 때문에 흑백 사진으로 변환을 해준다.
  
