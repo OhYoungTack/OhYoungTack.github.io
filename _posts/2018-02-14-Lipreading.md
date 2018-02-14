@@ -1,7 +1,7 @@
 # Project-"Lip_Reading"
-============================
+====
 ## Korean lip reading for a hearing-impaired person
-----------
+----
 
  이 주제를 선정한 이유는 청각 장애인들은 자막이나 수화로 영상을 시청해야하는데 실시간으로 음성을 자막으로 볼 수 없고, 또한 수화로 해주는 방송 또한 적기 때문에 생각해보게 된 주제이다. 최종적인 목표로는 real time으로 영상의 입모양을 해석하여 text로 보여주는 것이다. 
  
@@ -29,7 +29,8 @@
   -> <mark>입의 특징을 비교하여 어떤 단어를 말하고 있는 것인지를 알아내야한다.</mark>
 
 #### Step 1
-  <img src =“/images/step1_1.png”>
+  <img src =“https://github.com/OhYoungTack/OhYoungTack.github.io/blob/master/images/step1_1.png”>
+  
  
  얼굴을 인식할때 컬러정보는 필요없기 때문에 흑백 사진으로 변환을 해준다.
  
