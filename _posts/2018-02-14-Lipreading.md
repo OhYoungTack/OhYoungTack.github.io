@@ -92,4 +92,4 @@ for i in range(48, 68):
             cv2.rectangle(frame, (min_x,min_y), (max_x, max_y), (120,160,230),2)
 ~~~
 
-<img src="/images/re.png" width="250" height="200">
+<img src="/images/re.png" width="250" height="250">
