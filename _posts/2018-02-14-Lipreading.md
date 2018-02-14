@@ -29,9 +29,7 @@
   -> <mark>입의 특징을 비교하여 어떤 단어를 말하고 있는 것인지를 알아내야한다.</mark>
 
 #### Step 1
-<img src="![Alt text](/images/step1_1.png)" width="200" height="200"></img>
-
-<img src="/images/step1_1.png" width="200" height="200"></img>
+<img src="/images/step1_1.png" width="200" height="200">
 
 
   
